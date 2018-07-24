@@ -5,10 +5,10 @@ def lower_body
 end
 
 def base_footwork
-
-2. Return right foot to the ground
-
-3. Finishing with a **small skip-step** backward
   put "1. Lift right foot"
-  put "Return right foot to the ground"
-  put "Finishing with a small skip-step backward"
+  put "2. Return right foot to the ground"
+  put "3. Finishing with a **small skip-step** backward"
+end
+
+def skip_step
+  put 
