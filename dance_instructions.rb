@@ -1,5 +1,10 @@
 
 # Code your methods below
-def gangnam_style
-  put "1. Plant legs far apart, bend knees slightly and keep posture loose."
-  put "2. Lift right foot."
+def lower_body
+  put "Plant legs far apart, bend knees slightly and keep posture loose"
+end
+
+def base_footwork
+  put "Lift right foot"
+  put "Return right foot to the ground"
+  put "Finishing with a small skip-step backward"
