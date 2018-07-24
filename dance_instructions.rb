@@ -1,6 +1,6 @@
 
 # Code your methods below
-def lower_body
+def assume_stance
   puts "1. Plant legs far apart, bend knees slightly and keep posture loose"
 end
 
@@ -35,4 +35,10 @@ def lasso
 end
 
 def bust_a_move
-  puts ""
+  puts "Be cool"
+  puts "Be snazzy!"
+end
+
+puts assume_stance
+puts bust_a_move
+puts
